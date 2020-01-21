@@ -1,0 +1,72 @@
+[submodule "SVatG-Releases"]
+	path = SVatG-Releases
+	url = git@github.com:SVatG/SVatG-Releases.git
+[submodule "NegativeSpace"]
+	path = NegativeSpace
+	url = git@github.com:SVatG/NegativeSpace.git
+[submodule "SkateStation"]
+	path = SkateStation
+	url = git@github.com:SVatG/SkateStation.git
+[submodule "UE"]
+	path = UE
+	url = git@github.com:SVatG/UE.git
+[submodule "Raumfahrtaufgabenuebertragungsgesetz"]
+	path = Raumfahrtaufgabenuebertragungsgesetz
+	url = git@github.com:SVatG/Raumfahrtaufgabenuebertragungsgesetz.git
+[submodule "Its1975AndThisManIsAboutToShowYouTheFuture"]
+	path = Its1975AndThisManIsAboutToShowYouTheFuture
+	url = git@github.com:SVatG/Its1975AndThisManIsAboutToShowYouTheFuture.git
+[submodule "FourDollarPlasticLaminator"]
+	path = FourDollarPlasticLaminator
+	url = git@github.com:SVatG/FourDollarPlasticLaminator.git
+[submodule "JupiterAndBeyond"]
+	path = JupiterAndBeyond
+	url = git@github.com:SVatG/JupiterAndBeyond.git
+[submodule "SVatGLovesYou"]
+	path = SVatGLovesYou
+	url = git@github.com:SVatG/SVatGLovesYou.git
+[submodule "GreatScott"]
+	path = GreatScott
+	url = git@github.com:SVatG/GreatScott.git
+[submodule "SoapWashingItself"]
+	path = SoapWashingItself
+	url = git@github.com:SVatG/SoapWashingItself.git
+[submodule "Evoke20Partyscroller"]
+	path = Evoke20Partyscroller
+	url = git@github.com:SVatG/Evoke20Partyscroller.git
+[submodule "TwoHundred"]
+	path = TwoHundred
+	url = git@github.com:SVatG/TwoHundred.git
+[submodule "Peridiummmm"]
+	path = Peridiummmm
+	url = git@github.com:SVatG/Peridiummmm.git
+[submodule "HeinrichSiegfriedViktor"]
+	path = HeinrichSiegfriedViktor
+	url = git@github.com:SVatG/HeinrichSiegfriedViktor.git
+[submodule "TvNoiseDs"]
+	path = TvNoiseDs
+	url = git@github.com:SVatG/TvNoiseDs.git
+[submodule "PucMcAwesome"]
+	path = PucMcAwesome
+	url = git@github.com:SVatG/PucMcAwesome.git
+[submodule "TheStrongestDemo"]
+	path = TheStrongestDemo
+	url = git@github.com:SVatG/TheStrongestDemo.git
+[submodule "FiveDollarPlasticLaminator"]
+	path = FiveDollarPlasticLaminator
+	url = git@github.com:SVatG/FiveDollarPlasticLaminator.git
+[submodule "SoratobuOlTainShinrei"]
+	path = SoratobuOlTainShinrei
+	url = git@github.com:SVatG/SoratobuOlTainShinrei.git
+[submodule "Jules"]
+	path = Jules
+	url = git@github.com:SVatG/Jules.git
+[submodule "HerocatVsUnivillain"]
+	path = HerocatVsUnivillain
+	url = git@github.com:SVatG/HerocatVsUnivillain.git
+[submodule "TheLastCubinator"]
+	path = TheLastCubinator
+	url = git@github.com:SVatG/TheLastCubinator.git
+[submodule "Schukohase"]
+	path = Schukohase
+	url = git@github.com:SVatG/Schukohase.git
