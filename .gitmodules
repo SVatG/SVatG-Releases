@@ -46,9 +46,6 @@
 [submodule "TvNoiseDs"]
 	path = TvNoiseDs
 	url = git@github.com:SVatG/TvNoiseDs.git
-[submodule "PucMcAwesome"]
-	path = PucMcAwesome
-	url = git@github.com:SVatG/PucMcAwesome.git
 [submodule "TheStrongestDemo"]
 	path = TheStrongestDemo
 	url = git@github.com:SVatG/TheStrongestDemo.git
