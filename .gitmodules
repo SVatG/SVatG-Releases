@@ -67,3 +67,6 @@
 [submodule "Schukohase"]
 	path = Schukohase
 	url = git@github.com:SVatG/Schukohase.git
+[submodule "PucMcAwesome"]
+	path = PucMcAwesome
+	url = git@github.com:SVatG/PucMcAwesome.git
