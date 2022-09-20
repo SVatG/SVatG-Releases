@@ -73,3 +73,6 @@
 [submodule "Glitterbox"]
 	path = Glitterbox
 	url = git@github.com:SVatG/Glitterbox.git
+[submodule "HotelNordlicht"]
+	path = HotelNordlicht
+	url = git@github.com:SVatG/HotelNordlicht.git
